@@ -1,3 +1,3 @@
-- Hi, I’m Konstantin Ulyanov @const703
+- Hi, I’m Konstantin Ulyanov
 - I’m interested in developing desktop applications using WPF and C#
 - I work at XTools, LLC in Novosibirsk
