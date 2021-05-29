@@ -1,0 +1,3 @@
+- Hi, I’m @const703
+- I’m interested in developing desktop applications using WPF and C#
+- I work at XTools, LLC
