@@ -1,3 +1,6 @@
-- Hi, I’m Konstantin Ulyanov
-- I’m interested in developing desktop applications using WPF and C#
-- I work at XTools, LLC in Novosibirsk
+Hey, I’m Konstantin Ulyanov!
+- I work at Data East, LLC in Novosibirsk
+- I have some experience developing Windows applications using WPF (C#)
+- I really like Kotlin and always wanted to try and make something for Android
+
+The profile looks empty at the moment, but I'm working on it!
